@@ -105,6 +105,6 @@ Design interactive dashboards for stakeholders
 
 🔗 Author
 
-Anita Joy
+Anitta Joy
 
 Aspiring Data Analyst | Excel | SQL | Power BI | Python
