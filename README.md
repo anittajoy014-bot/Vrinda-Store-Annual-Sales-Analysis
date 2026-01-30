@@ -1,5 +1,5 @@
 # Vrinda-Store-Annual-Sales-Analysis
-📊 Vrinda Store Annual Sales Analysis (Excel Project)
+
 📌 Project Overview
 
 This project analyzes the annual sales performance of Vrinda Store (2022) using Microsoft Excel.
@@ -27,9 +27,7 @@ Created new calculated columns for:
 
 Age groups
 
-Sales values
-
-Order categorization
+Month
 
 Built Pivot Tables to support dashboard visuals and insights
 
@@ -37,7 +35,7 @@ Built Pivot Tables to support dashboard visuals and insights
 
 The dashboard was designed to answer the following key questions:
 
-Compare Sales and Orders using a single chart
+Compare Sales and Orders using a single chart.
 
 Which month recorded the highest sales and orders?
 
@@ -45,7 +43,7 @@ Who purchased more in 2022 — Men or Women?
 
 What are the different order statuses in 2022?
 
-List the top 10 states contributing to total sales
+List the top 5 states contributing to total sales.
 
 What is the relationship between age group and gender based on number of orders?
 
@@ -86,3 +84,26 @@ Most orders are successfully delivered, indicating strong operational efficiency
 To improve Vrinda Store sales:
 
 Focus marketing efforts on women aged 30–49 years living in Maharashtra, Karnataka, and Uttar Pradesh by offering targeted ads, discounts, and coupons on high-performing platforms such as Amazon, Flipkart, and Myntra.
+
+📁 Files Included
+
+Excel Dashboard (.xlsx)
+
+Dashboard Screenshot (.png)
+
+README Documentation
+
+🎯 Conclusion
+
+This project demonstrates my ability to:
+
+Perform end-to-end data analysis using Excel
+
+Convert business questions into analytical insights
+
+Design interactive dashboards for stakeholders
+
+🔗 Author
+
+Anita Joy
+Aspiring Data Analyst | Excel | SQL | Power BI | Python
